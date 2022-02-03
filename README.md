@@ -25,4 +25,5 @@
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=black)](https://flutter.dev/?gclid=Cj0KCQiA9OiPBhCOARIsAI0y71B0RTf3Eq7pI2JaD2Cwf7-F6ttpfA6CzoWoBH0IhM0pesSDHOmw8dUaAh8yEALw_wcB&gclsrc=aw.ds)
 
 
+## 👉🏻 Hits
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
