@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&text=JuHam's%GitHub!&textBg=true&height=200&)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&text=JuHam's&nbsp;%GitHub!&textBg=true&height=200&)
 
 ## 🙌 Hi! I'm FrontEnd(UI/Front) developer
 - interpark
