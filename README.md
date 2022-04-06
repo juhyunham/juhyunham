@@ -4,7 +4,6 @@
 ## 🙌 Hi! I'm FrontEnd(UI/Front) developer
 - interpark
 - ebay
-- kakaopay
 
 ## 🤟🏻 My Skills
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/ko/docs/Web/HTML)
