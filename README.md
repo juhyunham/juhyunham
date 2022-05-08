@@ -3,6 +3,7 @@
 
 ## 🤟🏻 My Skills
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/ko/docs/Web/HTML)
+[![EJS](https://img.shields.io/badge/EJS-C87636?style=flat-square&logo=EJS&logoColor=white)](https://developer.mozilla.org/ko/docs/Web/EJS)
 
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/ko/docs/Web/CSS)
 [![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white)](https://sass-lang.com/)
